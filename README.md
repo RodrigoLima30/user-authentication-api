@@ -224,7 +224,7 @@ Este projeto está sob a licença ISC.
 
 ## 👏 Agradecimentos
 
-- Trilha Node.js da Rocketseat
+- [Julio Henrique](https://www.youtube.com/@juliohsv/videos) - A fera 🔥
 - Documentação do Prisma ORM
 - Comunidade TypeScript
 
